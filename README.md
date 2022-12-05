@@ -7,7 +7,7 @@ Above are some automation test samples that I wrote. The tests are built using W
 -----------------
 
 
-**test 1**
+**Test Suite 1**
 
 Includes the following tests for http://emag.ro website:
 
@@ -20,7 +20,7 @@ Includes the following tests for http://emag.ro website:
 
 -----------------
 
-**test 2**
+**Test Suite 2**
 
 
 Includes the following tests for http://emag.ro website:
@@ -31,7 +31,7 @@ Includes the following tests for http://emag.ro website:
 -----------------
 
 
-**test 3**
+**Test Suite 3**
 
 Includes the following tests for https://www.libris.ro/ website:
 
